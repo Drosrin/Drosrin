@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Drosrin
+- 👋 Hi, I’m @Dr_osrin
 - 👀 I’m interested in Programming learning & coding.
 - 🌱 I’m currently learning CPP&Python.
 - 💞️ I’m looking to collaborate on Open source Cpp projects
