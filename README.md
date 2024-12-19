@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dr_osrin
-- 👀 I’m interested in Programming learning & coding.
-- 🌱 I’m currently learning CPP&Python.
-- 💞️ I’m looking to collaborate on Open source Cpp projects
+- 👀 I’m interested in NLP.
+- 🌱 I’m currently learning Machine Learnings.
+- 💞️ I’m looking to collaborate on NLP projects
 - 📫 How to reach me ? QQ 1242705207 email:drosrin@qq.com
 
 <!---
